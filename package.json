@@ -1,0 +1,20 @@
+{
+  "name": "roquet.q",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thyago608/roquet.q.git"
+  },
+  "keywords": [],
+  "author": "Thyago Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thyago608/roquet.q/issues"
+  },
+  "homepage": "https://github.com/thyago608/roquet.q#readme"
+}
